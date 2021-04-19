@@ -4,8 +4,7 @@
     align-items: center;
     justify-content: space-evenly;
     background-color: rgba(197, 217, 255, 0.925);
-    height: fit-content;
-    border: solid 1px red;
+    height: 90%;
 }
 
 .hero-logo {

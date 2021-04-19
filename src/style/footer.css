@@ -1,0 +1,7 @@
+.Footer {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20pt;
+    color: black;
+    height: 20%;
+}

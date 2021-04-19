@@ -3,7 +3,7 @@ import '../style/footer.css';
 function Footer(){
     return (
         <div className="Footer">
-            This is Footer
+            D-Stock Bot 2020 - GMU - CS321 - Team 13
         </div>
     )
 }

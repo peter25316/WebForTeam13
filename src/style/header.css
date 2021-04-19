@@ -6,8 +6,8 @@
     height: 100%;
     z-index: 2px;
     font: inherit;
-    border: solid 1px blue;
-    margin: 0px 15px 15px 15px
+    margin: 0px 15px 15px 15px;
+    height: 20%;
 }
 
 .header-link {
