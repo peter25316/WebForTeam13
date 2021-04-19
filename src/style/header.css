@@ -6,7 +6,8 @@
     height: 100%;
     z-index: 2px;
     font: inherit;
-    background-color: rgba(197, 217, 255, 0.925);
+    border: solid 1px blue;
+    margin: 0px 15px 15px 15px
 }
 
 .header-link {
@@ -28,5 +29,7 @@
     height: 50px;
     width: auto;
     border-radius: 40px;
-    padding: 10px;
 }
+
+
+

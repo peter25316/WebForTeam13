@@ -1,0 +1,38 @@
+.Hero {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(197, 217, 255, 0.925);
+    height: fit-content;
+    border: solid 1px red;
+}
+
+.hero-logo {
+    width: auto;
+    height: 300px;
+    padding: 10px;
+    border-radius: 400px;
+}
+
+.hero-text {
+    width: auto;
+    align-items: center;
+    margin: 15px 15px 15px 15px;
+}
+
+.hero-invite {
+    text-decoration: none;   
+    font-size: 20pt;
+    color: white;
+    cursor: pointer;
+    width: auto;
+    background-color: #8764e6;
+    width: auto;
+    border-radius: 15px;
+    padding: 3px 7px;
+}
+
+.hero-invite:hover {
+    background-color: rgba(197, 217, 255, 0.925);
+}
